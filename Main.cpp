@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 	cout << "Hello GIT";
-	cout << "Hello again GIT, now we meet again";
+	cout << "Hello again GIT, now we meet";
 
 	
 	_getch();
